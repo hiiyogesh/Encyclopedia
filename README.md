@@ -6,6 +6,14 @@ A **fully local, privacy-first** AI assistant that lets you upload PDF or JSON d
 
 ---
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/8b8d3a0c-42a2-47f6-9394-29c9fbe490bc
+
+
+
+
 ## ✨ Features
 
 - 📄 **PDF & JSON ingestion** — Upload documents directly in the browser; text is extracted client-side using `pdfjs-dist`
